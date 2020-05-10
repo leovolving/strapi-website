@@ -110,3 +110,7 @@ coverage
 exports
 .cache
 build
+
+# Others
+
+package-lock.json
